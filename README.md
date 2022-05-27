@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple rails app
 
-Things you may want to cover:
+Follow following steps to setup
 
-* Ruby version
+1. rails db:create db:migrate
+1. bundle
+1. rails s - 3001
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+now you can access the server on http://localhost:3001/
